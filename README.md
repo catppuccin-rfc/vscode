@@ -14,6 +14,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/vscode/main/assets/ss.png"/>
 </p>
+
 # IMPORTANT: THIS IS NOT THE ACTUAL VSCODE REPO. YOU CAN FIND THE REPO [HERE](https://github.com/catppuccin/vscode). THIS REPO EXISTS SOLELY FOR THE PURPOSE OF TESTING NEW TOOLS AND APIS. IT WILL BE TERMINATED SOON. 
 ## Previews
 
