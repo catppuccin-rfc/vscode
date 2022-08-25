@@ -4,7 +4,7 @@ binary_name: code
 installation:
   location:
     macos: ~/.vscode/extensions/
-    linux: ~/.vscde/extensions 
+    linux: ~/.vscode/extensions 
     windows: "%userprofile%/.vscode/extensions"
   flavours:
     all:
