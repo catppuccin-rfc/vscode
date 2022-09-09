@@ -24,4 +24,5 @@ installation:
         - themes/Catppuccin-mocha-color-scheme.json
   to: catppuccin/
   one_flavour: false
+  comments: "Run something to configure something maybe?"
 
