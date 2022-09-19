@@ -23,6 +23,6 @@ installation:
       default:
         - themes/Catppuccin-mocha-color-scheme.json
   to: catppuccin/
-  one_flavour: false
+  canInstall: 0
   comments: "Run something to configure something maybe?"
 
